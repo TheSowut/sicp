@@ -1,8 +1,10 @@
-    0.1 Unofficial Texinfo Format
-    0.2 Dedication
-    0.3 Foreword
-    0.4 Preface to the Second Edition
-    0.5 Preface to the First Edition
+    Current: https://sarabander.github.io/sicp/html/Acknowledgments.xhtml#Acknowledgments
+
+    ✅ 0.1 Unofficial Texinfo Format
+    ✅ 0.2 Dedication
+    ✅ 0.3 Foreword
+    ✅ 0.4 Preface to the Second Edition
+    ✅ 0.5 Preface to the First Edition
     0.6 Acknowledgments
 
     1 Building Abstractions with Procedures
