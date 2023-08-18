@@ -1,0 +1,8 @@
+Most LISP programs were written in two major dialects around the 1970s:
+MacLisp, developed by Moon 1978; Pitman 1983 at the MIT Project MAC,
+Interlisp, developed by Teitelman 1974, at Bolt Beranek and Newman Inc and Xerox Palo Alto Research Center.
+Portable Standard List, developer by Hearn 1969; Griss 1981 was a Lisp dialect designed for portability between machines.
+MacLisp created multiple subdialects such as Franz List (University of California at Berkeley) and Zetalisp (Moon and Weinreb 1981), which was based on a special-purpose
+processor designed at the MIT AI Laboratory to run efficiently. Scheme (Steele and Sussman 1975) was invented in 1975 by Guy Lewis Steele Jr. and
+Gerald Jay Sussman of the MIT AI Laboratory and later reimplemented for instructional use at MIT. Scheme became an IEEE standard in 1990. Common LISP, developed
+by the LISP community in order to make an industrial standard for LISP, became ANSI standard in 1994.

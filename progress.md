@@ -5,9 +5,9 @@
     ✅ 0.3 Foreword
     ✅ 0.4 Preface to the Second Edition
     ✅ 0.5 Preface to the First Edition
-    0.6 Acknowledgments
+    ✅ 0.6 Acknowledgments
 
-    1 Building Abstractions with Procedures
+    ✅ 1 Building Abstractions with Procedures
         1.1 The Elements of Programming
             1.1.1 Expressions
             1.1.2 Naming and the Environment
