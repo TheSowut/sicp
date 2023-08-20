@@ -1,1 +1,9 @@
 procedures - processes (can be manipulated as LISP data)
+primitive procedure - built in function
+compound procedure - a user defined function
+procedure definition - action of creating a user function
+substitution model (for procedure application) - breaking down a complex function, replacing all function names with their bodies
+	e.g. (+ (square 6) (square 10)) -> (+ (* 6 6) (* 10 10))
+normal-order evaluation - alternative method for evaluation, which does not evaluate the operands, until their
+	values are needed. Substitution model with addition steps and no number evaluation until needed. (lame)
+applicative-order evaluation - interpreter evaluation model (nice), Lisp uses applicative-order evaluation.
