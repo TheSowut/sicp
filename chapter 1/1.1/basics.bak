@@ -1,0 +1,5 @@
+#lang sicp
+(+ (+ 728 1) 2)
+;; operand:  +
+;; operands: (+ 728 1), 2
+;; arguments: 729, 2
