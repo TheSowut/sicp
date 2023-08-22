@@ -8,8 +8,8 @@
 
 ;; The conditional expression will determine the predicate of the expression.
 ;; If b is less than 0, it will use -, making it a positive integer.
-;; (> 2  0) -> #t -> + -> (+ a b) -> (+ 2  5) ->  7
-;; (> -5 0) -> #f -> - -> (- a b) -> (- 2 -5) -> -7
+;; (>  2 0) -> #t -> + -> (+ a b) -> (+ 2  5) -> 7
+;; (> -5 0) -> #f -> - -> (- a b) -> (- 2 -5) -> 7
 
 ;; Breakdown using Applicative-order evaluation
 ((if (> 5 0) + -) 2 5)
