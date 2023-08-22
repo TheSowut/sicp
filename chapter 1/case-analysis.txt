@@ -1,0 +1,13 @@
+Case analysis is a conditional statement. The general form to express a conditional expression is:
+(cond ((<p1>) <e1>)
+      ((<p2>) <e2>)
+      ((<p3>) <e3>))
+
+(<p> <e>) are clauses. The first expression in each pair a predicate - an expression, whose value
+is interpreted as either true or false. If a predicate's value is true, the interpreter returns the
+value of the corresponding consequent expression <e>. If none of the <p>'s is found to be true, the
+value of the cond is undefined.
+
+if body in scheme
+(if <predicate> <consequent> <alternative>)
+

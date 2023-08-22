@@ -7,3 +7,9 @@ substitution model (for procedure application) - breaking down a complex functio
 normal-order evaluation - alternative method for evaluation, which does not evaluate the operands, until their
 	values are needed. Substitution model with addition steps and no number evaluation until needed. (lame)
 applicative-order evaluation - interpreter evaluation model (nice), Lisp uses applicative-order evaluation.
+case analysis - conditional statement
+clause - body of a conditional statement - (cond <p1> <e1>)
+predicate -	    				 <p1>
+consequent expression			  	      <e1>
+logical composition operators - and, or, not
+
