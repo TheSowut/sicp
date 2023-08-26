@@ -12,4 +12,4 @@ clause - body of a conditional statement - (cond <p1> <e1>)
 predicate -	    				 <p1>
 consequent expression			  	      <e1>
 logical composition operators - and, or, not
-
+radicand - number whose square root we're trying to compute
