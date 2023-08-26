@@ -1,4 +1,4 @@
-    Current: https://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1 1.1.7
+    Current: https://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1 1.1.7 exercise 1.8
 
     ✅ 0.1 Unofficial Texinfo Format
     ✅ 0.2 Dedication
