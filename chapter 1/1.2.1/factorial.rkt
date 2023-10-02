@@ -17,3 +17,15 @@
 (* 5 (* 4 6))
 (* 5 24)
 
+(define (factorial-iterative n)
+  (fact-iterative 1 1 n))
+
+(define (fact-iterative product counter max-count)
+  (if (> counter max-count)
+      product
+      (fact-iterative (* counter product)
+                      (+ counter 1)
+                      max-count)))
+
+"---"
+(factorial-iterative 5)
