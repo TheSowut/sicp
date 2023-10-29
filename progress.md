@@ -1,4 +1,4 @@
-    Current: https://sarabander.github.io/sicp/html/1_002e2.xhtml#g_t1_002e2 1.2.2
+    Current: https://sarabander.github.io/sicp/html/1_002e2.xhtml#g_t1_002e2 Exercise 1.11
 
     ✅ 0.1 Unofficial Texinfo Format
     ✅ 0.2 Dedication
@@ -18,8 +18,8 @@
             ✅ 1.1.7 Example: Square Roots by Newton's Method
             ✅ 1.1.8 Procedures as Black-Box Abstractions
         1.2 Procedures and the Processes They Generate
-            1.2.1 Linear Recursion and Iteration
-            1.2.2 Tree Recursion
+            ✅ 1.2.1 Linear Recursion and Iteration
+            ✅ 1.2.2 Tree Recursion
             1.2.3 Orders of Growth
             1.2.4 Exponentiation
             1.2.5 Greatest Common Divisors
