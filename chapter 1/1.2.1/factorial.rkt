@@ -29,3 +29,11 @@
 
 "---"
 (factorial-iterative 5)
+
+;; Substitution Model
+(fact-iterative 1 1 5)
+(fact-iterative 1 2 5)
+(fact-iterative 2 3 5)
+(fact-iterative 6 4 5)
+(fact-iterative 24 5 5)
+(fact-iterative 120 6 5)
